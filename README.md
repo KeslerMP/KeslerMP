@@ -1,4 +1,6 @@
-Oi eu sou o kesler um desenvolvedor em aprendizagem.
+Prazer sou um desenvolvedor Front-end.
+
+:)
 
 ##
 
