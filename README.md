@@ -1,4 +1,4 @@
-Prazer sou um desenvolvedor Front-end.
+Prazer sou um desenvolvedor.
 
 :)
 
