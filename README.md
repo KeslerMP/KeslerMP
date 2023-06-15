@@ -1,6 +1,4 @@
-Prazer sou um desenvolvedor.
-
-:)
+Lover of good practice
 
 ##
 
